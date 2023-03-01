@@ -1,0 +1,10 @@
+    1  ls -la
+    2  alias c=clear
+    3  c
+    4  pwd
+    5  git clone https://github.com/Kusztelo/wsb.php.stac.git
+    6  ls
+    7  cs wsb.php.stac/
+    8  cs wsb.php.stac
+    9  cd wsb.php.stac
+   10  history > plikhistoria
