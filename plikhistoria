@@ -6,5 +6,23 @@
     6  ls
     7  cs wsb.php.stac/
     8  cs wsb.php.stac
-    9  cd wsb.php.stac
+    9* cd wsb.php.sac
    10  history > plikhistoria
+   11  ls
+   12  git satus
+   13  git status
+   14  ls
+   15  git add *
+   16  git status
+   17  git commit
+   18  git commit
+   19  git config --global user.email kusztikusztelski@gmail.com
+   20  git config --global user.name kusztelo
+   21  git commit
+   22  ls
+   23  git commit
+   24  git commit
+   25  git log
+   26  c
+   27  git push origin main
+   28  history > plikhistoria
